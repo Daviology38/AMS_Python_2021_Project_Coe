@@ -208,5 +208,4 @@ dependencies:
     - s3transfer==0.3.3
     - siphon==0.8.0
     - soupsieve==2.1
-    - tint==0.1.0
 prefix: /home/mariofire/anaconda3/envs/meteorology
